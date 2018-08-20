@@ -1,0 +1,35 @@
+.demo-card-wide.mdl-card {
+    width: 100%;
+}
+  
+.demo-card-wide > .mdl-card__menu {
+color: #fff;
+}
+.profile_pics{
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-fit: contain;
+    box-shadow: 1px 1px 1px 0.5px #000;
+}
+
+body{
+      background-image: url('../img/bg.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+}
+.mdl-card__supporting-text{
+    padding: 10px 16px !important;
+}
+.icons {
+    margin: 0 auto;
+    display: block;
+}
+.social_icon{
+    padding: 16px;
+    height: 70px;
+}
+.icons_all{
+    display: flex;
+}
