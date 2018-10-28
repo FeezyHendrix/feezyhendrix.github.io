@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://feezyhendrix.github.io/sitemap.xml
+Host: https://feezyhendrix.github.io
